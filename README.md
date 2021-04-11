@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @theExplodeGuy
+- 👀 I’m interested in Mathematical Modeling and Penetration Testing
+- 🌱 I’m currently learning pwn
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me Discord: explodeguy#4116
